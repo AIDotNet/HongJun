@@ -1,4 +1,4 @@
-﻿namespace HongJun.Service.Domina.Core;
+﻿namespace HongJun.Service.Domain.Core;
 
 
 public abstract class Entity<TKey> : ICreatable, IUpdatable

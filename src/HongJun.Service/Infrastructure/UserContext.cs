@@ -1,5 +1,5 @@
 ﻿using System.Security.Claims;
-using HongJun.Service.Domina.Core;
+using HongJun.Service.Domain.Core;
 
 namespace HongJun.Service.Infrastructure;
 

@@ -1,6 +1,6 @@
 ﻿using System.Net.Http.Headers;
 using HongJun.Service.DataAccess;
-using HongJun.Service.Domina;
+using HongJun.Service.Domain;
 using HongJun.Service.Dto;
 using HongJun.Service.Infrastructure.Helper;
 using HongJun.Service.Options;
