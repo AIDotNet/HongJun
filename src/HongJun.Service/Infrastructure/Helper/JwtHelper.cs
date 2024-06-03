@@ -1,7 +1,7 @@
 ﻿using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using HongJun.Service.Domina;
+using HongJun.Service.Domain;
 using HongJun.Service.Options;
 using Microsoft.IdentityModel.Tokens;
 

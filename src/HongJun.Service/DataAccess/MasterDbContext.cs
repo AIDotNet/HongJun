@@ -1,5 +1,5 @@
-﻿using HongJun.Service.Domina;
-using HongJun.Service.Domina.Core;
+﻿using HongJun.Service.Domain;
+using HongJun.Service.Domain.Core;
 using HongJun.Service.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 

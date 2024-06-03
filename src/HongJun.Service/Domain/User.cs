@@ -1,7 +1,7 @@
-﻿using HongJun.Service.Domina.Core;
+﻿using HongJun.Service.Domain.Core;
 using HongJun.Service.Infrastructure.Helper;
 
-namespace HongJun.Service.Domina;
+namespace HongJun.Service.Domain;
 
 
 public sealed class User : Entity<string>
