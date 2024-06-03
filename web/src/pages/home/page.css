@@ -1,0 +1,38 @@
+.search-consult-textarea_search-consult-textarea__kjgyz {
+    border: none;
+    outline: none;
+    padding: 0;
+    margin: 0;
+    resize: none;
+    -ms-flex-item-align: stretch;
+    align-self: stretch;
+    width: 76%;
+    color: inherit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.textare-root {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    cursor: text;
+    -ms-flex: 1 0;
+    flex: 1 0;
+    max-width: 100%;
+    min-width: calc(50% - 40.5px);
+    transition: min-width .3s;
+    overflow: hidden;
+}
+
+.tab {
+    transition: all 0.5s ease-in-out;
+}
+
+.tab:hover {
+    transition: all 0.3s ease-in-out;
+    background-color: #006dfc;
+}

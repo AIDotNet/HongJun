@@ -1,0 +1,28 @@
+﻿{
+  "schema": 1,
+  "type": "completion",
+  "description": "HTML数据处理和整理数据",
+  "execution_settings": {
+    "default": {
+      "max_tokens": 2000,
+      "temperature": 0.5
+    },
+    "gpt-3.5-turbo": {
+      "model_id": "gpt-3.5-turbo-0125",
+      "max_tokens": 4000,
+      "temperature": 0.5
+    },
+    "gpt-4o": {
+      "model_id": "gpt-4o",
+      "max_tokens": 4000,
+      "temperature": 0.5
+    }
+  },
+  "input_variables": [
+    {
+      "name": "input",
+      "description": "用户的问题",
+      "required": true
+    }
+  ]
+}

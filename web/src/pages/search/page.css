@@ -1,0 +1,16 @@
+.search-analysis-tag{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.search-analysis-tag div{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 160px;
+}
+
+article div p {
+    text-align: justify;
+}

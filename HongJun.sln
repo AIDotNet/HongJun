@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EE4ED18F-4126-474A-9F29-C87CC57DA6E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HongJun.Service", "src\HongJun.Service\HongJun.Service.csproj", "{320AB728-58D4-4B41-AAE4-9B311910D769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{320AB728-58D4-4B41-AAE4-9B311910D769} = {EE4ED18F-4126-474A-9F29-C87CC57DA6E6}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{320AB728-58D4-4B41-AAE4-9B311910D769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{320AB728-58D4-4B41-AAE4-9B311910D769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{320AB728-58D4-4B41-AAE4-9B311910D769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{320AB728-58D4-4B41-AAE4-9B311910D769}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
